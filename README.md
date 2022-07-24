@@ -1,2 +1,2 @@
 # microservices-spring-boot
-Deploying microservices using spring boot
+Deploying spring boot microservices 
